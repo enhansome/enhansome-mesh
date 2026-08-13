@@ -19,7 +19,7 @@
             "last_commit": "2026-08-12T15:31:28Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 242657
+            "stars": 242702
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2024-01-31T07:47:58Z",
             "owner": "HelloZeroNet",
             "repo": "ZeroNet",
-            "stars": 18765
+            "stars": 18764
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2026-08-11T19:35:09Z",
             "owner": "ipfs",
             "repo": "kubo",
-            "stars": 17100
+            "stars": 17099
           }
         },
         {
@@ -270,7 +270,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:57:51.007Z",
+    "last_updated": "2026-08-13T10:46:04.421Z",
     "original_repository": "moarpepes/awesome-mesh",
     "original_repository_sha": "30501e5a3152f92a4bef7d1411196e6a33b10b0a",
     "enhanced_repository": "enhansome/enhansome-mesh",
