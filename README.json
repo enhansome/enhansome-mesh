@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T02:12:23Z",
+            "last_commit": "2026-08-15T04:58:55Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 242799
+            "stars": 242882
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-07-09T19:50:40Z",
             "owner": "cjdelisle",
             "repo": "cjdns",
-            "stars": 5403
+            "stars": 5402
           }
         },
         {
@@ -145,10 +145,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T19:53:17Z",
+            "last_commit": "2026-08-15T02:32:36Z",
             "owner": "ipfs",
             "repo": "kubo",
-            "stars": 17100
+            "stars": 17101
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-08T08:19:52Z",
             "owner": "hyphanet",
             "repo": "fred",
-            "stars": 1207
+            "stars": 1208
           }
         },
         {
@@ -270,7 +270,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:42:20.005Z",
+    "last_updated": "2026-08-15T10:02:01.375Z",
     "original_repository": "moarpepes/awesome-mesh",
     "original_repository_sha": "30501e5a3152f92a4bef7d1411196e6a33b10b0a",
     "enhanced_repository": "enhansome/enhansome-mesh",
