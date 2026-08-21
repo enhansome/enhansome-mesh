@@ -1,6 +1,6 @@
 # Awesome-Mesh with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,003 | 🐛 105 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,446 | 🐛 105 | 📅 2026-08-18
 
 This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.
 
@@ -39,7 +39,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 **[`^        back to top        ^`](#)**
 
-* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) ⭐ 243,354 | 🐛 3 | 🌐 C | 📅 2026-08-20 - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
+* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) ⭐ 243,570 | 🐛 3 | 🌐 C | 📅 2026-08-21 - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
 
 * [cjdns](https://github.com/cjdelisle/cjdns/) ⭐ 5,405 | 🐛 110 | 🌐 C | 📅 2026-07-09 - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. [Source Code](https://github.com/cjdelisle/cjdns/) ⭐ 5,405 | 🐛 110 | 🌐 C | 📅 2026-07-09 `GPLv3` `Assembly`
 
@@ -77,7 +77,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [ZeroNet](https://zeronet.io/) - ZeroNet is a decentralized Internet-like network of peer-to-peer users. Each visitor is also a host. [Source Code](https://github.com/HelloZeroNet/ZeroNet) ⭐ 18,766 | 🐛 781 | 🌐 JavaScript | 📅 2024-01-31 `GPLv2` `Python`
 
-* [Go-IPFS](https://ipfs.io/) - IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects. [Source Code](https://github.com/ipfs/go-ipfs) ⭐ 17,105 | 🐛 870 | 🌐 Go | 📅 2026-08-18 `MIT` `Go`
+* [Go-IPFS](https://ipfs.io/) - IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects. [Source Code](https://github.com/ipfs/go-ipfs) ⭐ 17,104 | 🐛 870 | 🌐 Go | 📅 2026-08-21 `MIT` `Go`
 
 * [FreeNet](https://freenetproject.org/) - Communications by Freenet nodes are encrypted and are routed through other nodes to make it extremely difficult to determine who is requesting the information and what its content is, data is shared by all users on the network. [Source Code](https://github.com/freenet/fred) ⭐ 1,210 | 🐛 51 | 🌐 Java | 📅 2026-08-16 `GPLv2` `Java`
 
@@ -143,4 +143,4 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
