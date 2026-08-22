@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 2325298,
                 "language": "C",
-                "last_commit": "2026-08-21T03:38:02Z",
+                "last_commit": "2026-08-21T20:24:53Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 243570
+                "stars": 243762
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-19T08:38:55Z",
                 "owner": "bluerange-io",
                 "repo": "bluerange-mesh",
-                "stars": 312
+                "stars": 314
               }
             },
             {
@@ -142,7 +142,7 @@
                 "last_commit": "2024-01-31T07:47:58Z",
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18766
+                "stars": 18770
               }
             },
             {
@@ -157,7 +157,7 @@
                 "last_commit": "2026-08-21T06:06:00Z",
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17104
+                "stars": 17105
               }
             },
             {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:13:51.480Z",
+    "last_updated": "2026-08-22T10:01:54.845Z",
     "original_repository": "moarpepes/awesome-mesh",
     "original_repository_id": 103144298,
     "original_repository_sha": "30501e5a3152f92a4bef7d1411196e6a33b10b0a",
