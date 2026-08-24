@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 2325298,
                 "language": "C",
-                "last_commit": "2026-08-22T23:57:37Z",
+                "last_commit": "2026-08-24T02:30:50Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 243908
+                "stars": 244018
               }
             },
             {
@@ -154,10 +154,10 @@
                 "archived": false,
                 "id": 21233191,
                 "language": "Go",
-                "last_commit": "2026-08-22T14:44:38Z",
+                "last_commit": "2026-08-23T23:36:26Z",
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17107
+                "stars": 17108
               }
             },
             {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:01:57.602Z",
+    "last_updated": "2026-08-24T10:23:07.495Z",
     "original_repository": "moarpepes/awesome-mesh",
     "original_repository_id": 103144298,
     "original_repository_sha": "30501e5a3152f92a4bef7d1411196e6a33b10b0a",
