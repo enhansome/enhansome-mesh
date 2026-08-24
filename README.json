@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T02:30:50Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244018
+                "stars": 244029
               }
             },
             {
@@ -128,6 +128,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LifeNet",
+              "description": "LifeNet is a WiFi-based data communication solution designed for post-disaster scenarios. It is open-source software and designed to run on consumer devices such as laptops, smart-phones and wireless routers. Source Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1772358,
+                "language": "C",
+                "last_commit": "2012-03-23T05:16:44Z",
+                "owner": "hrushim",
+                "repo": "LifeNet",
+                "stars": 62
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AllInOne"
+        },
         {
           "children": [
             {
@@ -282,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:23:07.495Z",
+    "last_updated": "2026-08-24T14:24:41.083Z",
     "original_repository": "moarpepes/awesome-mesh",
     "original_repository_id": 103144298,
     "original_repository_sha": "30501e5a3152f92a4bef7d1411196e6a33b10b0a",
