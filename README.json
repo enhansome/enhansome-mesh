@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T19:25:00Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244305
+                "stars": 244318
               }
             },
             {
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:20:35.341Z",
+    "last_updated": "2026-08-25T10:14:49.255Z",
     "original_repository": "moarpepes/awesome-mesh",
     "original_repository_id": 103144298,
     "original_repository_sha": "30501e5a3152f92a4bef7d1411196e6a33b10b0a",
