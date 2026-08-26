@@ -1,6 +1,6 @@
 # Awesome-Mesh with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,753 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,049 | 🐛 106 | 📅 2026-08-21
 
 This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.
 
@@ -39,13 +39,13 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 **[`^        back to top        ^`](#)**
 
-* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) ⭐ 244,318 | 🐛 3 | 🌐 C | 📅 2026-08-24 - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
+* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) ⭐ 244,440 | 🐛 3 | 🌐 C | 📅 2026-08-25 - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
 
-* [cjdns](https://github.com/cjdelisle/cjdns/) ⭐ 5,407 | 🐛 110 | 🌐 C | 📅 2026-07-09 - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. [Source Code](https://github.com/cjdelisle/cjdns/) ⭐ 5,407 | 🐛 110 | 🌐 C | 📅 2026-07-09 `GPLv3` `Assembly`
+* [cjdns](https://github.com/cjdelisle/cjdns/) ⭐ 5,405 | 🐛 110 | 🌐 C | 📅 2026-07-09 - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. [Source Code](https://github.com/cjdelisle/cjdns/) ⭐ 5,405 | 🐛 110 | 🌐 C | 📅 2026-07-09 `GPLv3` `Assembly`
 
 * [babled](http://www.pps.univ-paris-diderot.fr/~jch/software/babel/) - Babel is a loop-avoiding distance-vector routing protocol for IPv6 and IPv4 with fast convergence properties. It is based on the ideas in DSDV, AODV and Cisco's EIGRP, but is designed to work well not only in wired networks but also in wireless mesh networks, and has been extended with support for overlay networks. [Source Code](https://github.com/jech/babeld) ⭐ 451 | 🐛 11 | 🌐 C | 📅 2026-06-20 `MIT` `C`
 
-* [OLSR](http://olsr.org/) - The Optimized Link State Routing Protocol (OLSR) is an IP routing protocol optimized for mobile ad hoc networks, which can also be used on other wireless ad hoc networks. [Source Code](https://github.com/OLSR/OONF) ⭐ 64 | 🐛 7 | 🌐 C | 📅 2026-08-06  `BSD` `C`
+* [OLSR](http://olsr.org/) - The Optimized Link State Routing Protocol (OLSR) is an IP routing protocol optimized for mobile ad hoc networks, which can also be used on other wireless ad hoc networks. [Source Code](https://github.com/OLSR/OONF) ⭐ 65 | 🐛 7 | 🌐 C | 📅 2026-08-06  `BSD` `C`
 
 * [GNUnet](https://gnunet.org/) - A mesh routing layer for end-to-end encrypted networking and a framework for distributed applications designed to replace the old insecure Internet protocol stack. [Source Code](https://gnunet.org/git/) `GPLv3` `Java` (Various)
 
@@ -77,7 +77,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [ZeroNet](https://zeronet.io/) - ZeroNet is a decentralized Internet-like network of peer-to-peer users. Each visitor is also a host. [Source Code](https://github.com/HelloZeroNet/ZeroNet) ⭐ 18,770 | 🐛 781 | 🌐 JavaScript | 📅 2024-01-31 `GPLv2` `Python`
 
-* [Go-IPFS](https://ipfs.io/) - IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects. [Source Code](https://github.com/ipfs/go-ipfs) ⭐ 17,110 | 🐛 873 | 🌐 Go | 📅 2026-08-25 `MIT` `Go`
+* [Go-IPFS](https://ipfs.io/) - IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects. [Source Code](https://github.com/ipfs/go-ipfs) ⭐ 17,113 | 🐛 873 | 🌐 Go | 📅 2026-08-25 `MIT` `Go`
 
 * [FreeNet](https://freenetproject.org/) - Communications by Freenet nodes are encrypted and are routed through other nodes to make it extremely difficult to determine who is requesting the information and what its content is, data is shared by all users on the network. [Source Code](https://github.com/freenet/fred) ⭐ 1,210 | 🐛 51 | 🌐 Java | 📅 2026-08-16 `GPLv2` `Java`
 
@@ -93,7 +93,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [Splinternet](https://github.com/megamattron/SplinterNet) ⭐ 435 | 🐛 5 | 🌐 Java | 📅 2013-02-26 - A serverless, unblockable messaging system for Android. [Source Code](https://github.com/megamattron/SplinterNet) ⭐ 435 | 🐛 5 | 🌐 Java | 📅 2013-02-26  `MIT`[?](https://github.com/megamattron/SplinterNet/issues/6) ⭐ 435 | 🐛 5 | 🌐 Java | 📅 2013-02-26 `Java`
 
-* [ServalMesh Batphone](http://www.servalproject.org/) - This app assumes zero infrastructure. The phones talk to each other using WiFi; relaying calls and messages and figuring out how to resolve numbers. In other words, it lets your phone communicate with other Android phones running Serval Mesh within WiFi range. [Source Code](https://github.com/servalproject/batphone) ⭐ 421 | 🐛 42 | 🌐 C | 📅 2018-08-06 `GPLv3` `Java`
+* [ServalMesh Batphone](http://www.servalproject.org/) - This app assumes zero infrastructure. The phones talk to each other using WiFi; relaying calls and messages and figuring out how to resolve numbers. In other words, it lets your phone communicate with other Android phones running Serval Mesh within WiFi range. [Source Code](https://github.com/servalproject/batphone) ⭐ 420 | 🐛 42 | 🌐 C | 📅 2018-08-06 `GPLv3` `Java`
 
 * [Underdark](http://underdark.io/) - Mobile peer-to-peer mesh networking library. Integrates into iOS and Android apps and works over Wi-Fi and Bluetooth. Demo app called Solidarity available for download. [Source Code](https://github.com/udark/underdark-android) ⭐ 216 | 🐛 18 | 🌐 Java | 📅 2018-05-10 `modified-Apache 2.0`[(With Extra Clause)](http://underdark.io/LICENSE.txt) `Java`
 
@@ -143,4 +143,4 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
