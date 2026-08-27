@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 2325298,
                 "language": "C",
-                "last_commit": "2026-08-26T23:09:41Z",
+                "last_commit": "2026-08-27T18:52:15Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244637
+                "stars": 244699
               }
             },
             {
@@ -164,7 +164,7 @@
                 "last_commit": "2024-01-31T07:47:58Z",
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18770
+                "stars": 18771
               }
             },
             {
@@ -176,7 +176,7 @@
                 "archived": false,
                 "id": 21233191,
                 "language": "Go",
-                "last_commit": "2026-08-27T02:35:20Z",
+                "last_commit": "2026-08-27T19:42:52Z",
                 "owner": "ipfs",
                 "repo": "kubo",
                 "stars": 17115
@@ -194,7 +194,7 @@
                 "last_commit": "2026-08-16T20:46:58Z",
                 "owner": "hyphanet",
                 "repo": "fred",
-                "stars": 1210
+                "stars": 1211
               }
             },
             {
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:21.192Z",
+    "last_updated": "2026-08-27T20:00:38.308Z",
     "original_repository_info": {
       "archived": false,
       "id": 103144298,
