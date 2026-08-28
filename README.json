@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 2325298,
                 "language": "C",
-                "last_commit": "2026-08-27T18:52:15Z",
+                "last_commit": "2026-08-28T19:48:41Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244699
-              }
+                "stars": 244839
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-07-09T19:50:40Z",
                 "owner": "cjdelisle",
                 "repo": "cjdns",
-                "stars": 5406
-              }
+                "stars": 5407
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "jech",
                 "repo": "babeld",
                 "stars": 451
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "OLSR",
                 "repo": "OONF",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             }
           ],
           "description": null,
@@ -85,7 +89,8 @@
                 "owner": "bluerange-io",
                 "repo": "bluerange-mesh",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "Seeed-Studio",
                 "repo": "Mesh_Bee",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "aanon4",
                 "repo": "BLEMP",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             }
           ],
           "description": null,
@@ -143,7 +150,8 @@
                 "owner": "hrushim",
                 "repo": "LifeNet",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             }
           ],
           "description": null,
@@ -164,8 +172,9 @@
                 "last_commit": "2024-01-31T07:47:58Z",
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18771
-              }
+                "stars": 18772
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -180,7 +189,8 @@
                 "owner": "ipfs",
                 "repo": "kubo",
                 "stars": 17115
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -195,7 +205,8 @@
                 "owner": "hyphanet",
                 "repo": "fred",
                 "stars": 1211
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -210,7 +221,8 @@
                 "owner": "Byzantium",
                 "repo": "Byzantium",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             }
           ],
           "description": null,
@@ -232,7 +244,8 @@
                 "owner": "sudomesh",
                 "repo": "disaster-radio",
                 "stars": 1129
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -247,7 +260,8 @@
                 "owner": "arboliva",
                 "repo": "AirChat",
                 "stars": 1087
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -262,7 +276,8 @@
                 "owner": "megamattron",
                 "repo": "SplinterNet",
                 "stars": 435
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -277,7 +292,8 @@
                 "owner": "servalproject",
                 "repo": "batphone",
                 "stars": 420
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             },
             {
               "node_type": "item",
@@ -292,7 +308,8 @@
                 "owner": "udark",
                 "repo": "underdark-android",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T21:00:06.783Z"
             }
           ],
           "description": null,
@@ -304,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:00:38.308Z",
+    "last_updated": "2026-08-28T21:00:06.783Z",
     "original_repository_info": {
       "archived": false,
       "id": 103144298,
