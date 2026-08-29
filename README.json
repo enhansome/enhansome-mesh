@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linux kernel source tree",
+                "homepage": null,
                 "id": 2325298,
                 "language": "C",
-                "last_commit": "2026-08-28T19:48:41Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:12:08Z",
+                "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244839
+                "stars": 244871,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -28,12 +33,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.",
+                "homepage": null,
                 "id": 1376101,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-09T19:50:40Z",
+                "open_issues": 110,
                 "owner": "cjdelisle",
                 "repo": "cjdns",
-                "stars": 5407
+                "stars": 5407,
+                "topics": [
+                  "cjdns",
+                  "cryptography",
+                  "dht",
+                  "fcp",
+                  "hyperboria",
+                  "mesh",
+                  "mesh-networks",
+                  "networking",
+                  "routing"
+                ]
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -44,12 +64,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Babel routing daemon",
+                "homepage": "http://www.irif.fr/~jch/software/babel/",
                 "id": 2145286,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-06-20T19:30:45Z",
+                "open_issues": 11,
                 "owner": "jech",
                 "repo": "babeld",
-                "stars": 451
+                "stars": 451,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -60,12 +85,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OLSR.org Network Framework - olsrd v2 / DLEP",
+                "homepage": null,
                 "id": 54142230,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-06T21:51:53Z",
+                "open_issues": 7,
                 "owner": "OLSR",
                 "repo": "OONF",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             }
@@ -83,12 +113,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BlueRange Mesh - The first completely connection-based open source mesh on top of Bluetooth LE (>=4.1/5.0)",
+                "homepage": "https://bluerange.io/",
                 "id": 39186778,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T08:38:55Z",
+                "open_issues": 1,
                 "owner": "bluerange-io",
                 "repo": "bluerange-mesh",
-                "stars": 314
+                "stars": 314,
+                "topics": [
+                  "beacons",
+                  "ble",
+                  "bluerange",
+                  "bluetooth-low-energy",
+                  "building-automation",
+                  "internet-of-things",
+                  "iot",
+                  "mesh",
+                  "mesh-network",
+                  "smart-building"
+                ]
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -99,12 +145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zigbee module based on NXP JN5168",
+                "homepage": null,
                 "id": 15390727,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-01-08T08:52:11Z",
+                "open_issues": 0,
                 "owner": "Seeed-Studio",
                 "repo": "Mesh_Bee",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -115,12 +166,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bluetooth Low Energy Mesh Protocol for nRF51 Nordic chips",
+                "homepage": "https://gitlab.com/timwilkinson/BLEMP",
                 "id": 36471576,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-06-06T06:25:16Z",
+                "open_issues": 1,
                 "owner": "aanon4",
                 "repo": "BLEMP",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             }
@@ -144,12 +200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible ad hoc networking solution for transient environments. ",
+                "homepage": null,
                 "id": 1772358,
                 "language": "C",
+                "license": null,
                 "last_commit": "2012-03-23T05:16:44Z",
+                "open_issues": 6,
                 "owner": "hrushim",
                 "repo": "LifeNet",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             }
@@ -167,12 +228,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network",
+                "homepage": "https://zeronet.io",
                 "id": 29112049,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-31T07:47:58Z",
+                "open_issues": 781,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18772
+                "stars": 18772,
+                "topics": [
+                  "anonymity",
+                  "anticensorship",
+                  "bitcoin",
+                  "bittorrent",
+                  "decentralized",
+                  "internet-freedom",
+                  "p2p",
+                  "python",
+                  "realtime",
+                  "tor",
+                  "torrent",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -183,12 +262,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API",
+                "homepage": "https://docs.ipfs.tech/how-to/command-line-quick-start/",
                 "id": 21233191,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T19:42:52Z",
+                "open_issues": 874,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17115
+                "stars": 17115,
+                "topics": [
+                  "ipfs"
+                ]
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -199,12 +285,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Freenet REference Daemon",
+                "homepage": "https://www.hyphanet.org/",
                 "id": 185026,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-16T20:46:58Z",
+                "open_issues": 51,
                 "owner": "hyphanet",
                 "repo": "fred",
-                "stars": 1211
+                "stars": 1211,
+                "topics": [
+                  "anonymity",
+                  "hyphanet",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -215,12 +310,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Configs and code for Project Byzantium.",
+                "homepage": null,
                 "id": 1415046,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2017-06-07T20:46:24Z",
+                "open_issues": 36,
                 "owner": "Byzantium",
                 "repo": "Byzantium",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             }
@@ -238,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A (paused) work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.",
+                "homepage": "https://disaster.radio",
                 "id": 102456668,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-05-22T14:51:47Z",
+                "open_issues": 38,
                 "owner": "sudomesh",
                 "repo": "disaster-radio",
-                "stars": 1129
+                "stars": 1129,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -254,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free Communications For Everyone.",
+                "homepage": null,
                 "id": 19073255,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2021-12-09T11:29:50Z",
+                "open_issues": 18,
                 "owner": "arboliva",
                 "repo": "AirChat",
-                "stars": 1087
+                "stars": 1087,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -270,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A serverless, unblockable messaging system for Android.",
+                "homepage": null,
                 "id": 3293095,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2013-02-26T14:59:49Z",
+                "open_issues": 5,
                 "owner": "megamattron",
                 "repo": "SplinterNet",
-                "stars": 435
+                "stars": 435,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -286,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Serval Mesh app for Android.  EXPERIMENTAL SOFTWARE.",
+                "homepage": "http://www.servalproject.org",
                 "id": 1310250,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2018-08-06T03:27:41Z",
+                "open_issues": 42,
                 "owner": "servalproject",
                 "repo": "batphone",
-                "stars": 420
+                "stars": 420,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             },
@@ -302,12 +422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bluetooth peer-to-peer mesh networking for Android",
+                "homepage": "http://underdark.io",
                 "id": 49384150,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2018-05-10T17:04:39Z",
+                "open_issues": 18,
                 "owner": "udark",
                 "repo": "underdark-android",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
             }
@@ -321,15 +446,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:00:06.783Z",
+    "last_updated": "2026-08-29T04:45:31.970Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.",
+      "homepage": null,
       "id": 103144298,
       "language": null,
+      "license": null,
       "last_commit": "2023-03-22T02:59:53Z",
+      "open_issues": 3,
       "owner": "moarpepes",
       "repo": "awesome-mesh",
-      "stars": 405
+      "stars": 405,
+      "topics": [
+        "awesome-list",
+        "hosting",
+        "mesh-networks",
+        "mesh-protocols",
+        "p2p",
+        "privacy"
+      ]
     },
     "original_repository_sha": "30501e5a3152f92a4bef7d1411196e6a33b10b0a",
     "enhanced_repository": "enhansome/enhansome-mesh",
