@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244871,
+                "stars": 244924,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -237,7 +237,7 @@
                 "open_issues": 781,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18772,
+                "stars": 18774,
                 "topics": [
                   "anonymity",
                   "anticensorship",
@@ -271,7 +271,7 @@
                 "open_issues": 874,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17115,
+                "stars": 17116,
                 "topics": [
                   "ipfs"
                 ]
@@ -291,7 +291,7 @@
                 "language": "Java",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-16T20:46:58Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "hyphanet",
                 "repo": "fred",
                 "stars": 1211,
@@ -347,7 +347,7 @@
                 "open_issues": 38,
                 "owner": "sudomesh",
                 "repo": "disaster-radio",
-                "stars": 1129,
+                "stars": 1130,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:45:31.970Z",
+    "last_updated": "2026-08-29T14:42:37.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.",
