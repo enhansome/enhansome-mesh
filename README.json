@@ -17,11 +17,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T17:42:58Z",
+                "last_commit": "2026-09-08T22:23:08Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 247513,
+                "stars": 247623,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -70,7 +70,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-06-20T19:30:45Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "jech",
                 "repo": "babeld",
                 "stars": 451,
@@ -122,7 +122,7 @@
                 "open_issues": 1,
                 "owner": "bluerange-io",
                 "repo": "bluerange-mesh",
-                "stars": 314,
+                "stars": 315,
                 "topics": [
                   "beacons",
                   "ble",
@@ -237,7 +237,7 @@
                 "open_issues": 781,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18769,
+                "stars": 18767,
                 "topics": [
                   "anonymity",
                   "anticensorship",
@@ -267,11 +267,11 @@
                 "id": 21233191,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T23:32:03Z",
-                "open_issues": 870,
+                "last_commit": "2026-09-09T00:44:56Z",
+                "open_issues": 871,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17128,
+                "stars": 17129,
                 "topics": [
                   "ipfs"
                 ]
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:54:21.438Z",
+    "last_updated": "2026-09-09T13:58:18.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.",
@@ -455,7 +455,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-03-22T02:59:53Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "moarpepes",
       "repo": "awesome-mesh",
       "stars": 405,
