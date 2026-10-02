@@ -1,6 +1,6 @@
 # Awesome-Mesh with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,136 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,593 | 🐛 106 | 📅 2026-09-02
 
 This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.
 
@@ -39,7 +39,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 **[`^        back to top        ^`](#)**
 
-* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) ⭐ 250,747 | 🐛 3 | 🌐 C | 📅 2026-10-01 - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
+* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) ⭐ 250,833 | 🐛 3 | 🌐 C | 📅 2026-10-01 - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
 
 * [cjdns](https://github.com/cjdelisle/cjdns/) ⭐ 5,419 | 🐛 113 | 🌐 C | 📅 2026-09-22 - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. [Source Code](https://github.com/cjdelisle/cjdns/) ⭐ 5,419 | 🐛 113 | 🌐 C | 📅 2026-09-22 `GPLv3` `Assembly`
 
@@ -53,7 +53,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 **[`^        back to top        ^`](#)**
 
-* [FruityMesh](https://github.com/mwaylabs/fruitymesh/wiki) ⭐ 315 | 🐛 1 | 🌐 C | 📅 2026-08-19 - The first completely connection-based open source mesh on top of Bluetooth Low Energy 4.1. [Source Code](https://github.com/mwaylabs/fruitymesh) ⭐ 315 | 🐛 1 | 🌐 C | 📅 2026-08-19 `GPLv3` `C++`
+* [FruityMesh](https://github.com/mwaylabs/fruitymesh/wiki) ⭐ 314 | 🐛 1 | 🌐 C | 📅 2026-08-19 - The first completely connection-based open source mesh on top of Bluetooth Low Energy 4.1. [Source Code](https://github.com/mwaylabs/fruitymesh) ⭐ 314 | 🐛 1 | 🌐 C | 📅 2026-08-19 `GPLv3` `C++`
 
 * [Mesh Bee](https://www.seeedstudio.com/Mesh-Bee-Open-Source-Zigbee-Pro-Module-with-MCU-%28JN5168%29-p-1751.html) - MeshBee® is a 2.4 GHz wireless zigbee RF module. It use microchip JN516x from NXP that enables several different flavors of standards-based zigbee mesh networking. [Source Code](https://github.com/Seeed-Studio/Mesh_Bee) ⭐ 61 | 🐛 0 | 🌐 C | 📅 2025-01-08 `MIT` `C`
 
@@ -75,11 +75,11 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 **[`^        back to top        ^`](#)**
 
-* [ZeroNet](https://zeronet.io/) - ZeroNet is a decentralized Internet-like network of peer-to-peer users. Each visitor is also a host. [Source Code](https://github.com/HelloZeroNet/ZeroNet) ⭐ 18,772 | 🐛 781 | 🌐 JavaScript | 📅 2024-01-31 `GPLv2` `Python`
+* [ZeroNet](https://zeronet.io/) - ZeroNet is a decentralized Internet-like network of peer-to-peer users. Each visitor is also a host. [Source Code](https://github.com/HelloZeroNet/ZeroNet) ⭐ 18,770 | 🐛 781 | 🌐 JavaScript | 📅 2024-01-31 `GPLv2` `Python`
 
-* [Go-IPFS](https://ipfs.io/) - IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects. [Source Code](https://github.com/ipfs/go-ipfs) ⭐ 17,145 | 🐛 874 | 🌐 Go | 📅 2026-09-27 `MIT` `Go`
+* [Go-IPFS](https://ipfs.io/) - IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects. [Source Code](https://github.com/ipfs/go-ipfs) ⭐ 17,146 | 🐛 875 | 🌐 Go | 📅 2026-10-01 `MIT` `Go`
 
-* [FreeNet](https://freenetproject.org/) - Communications by Freenet nodes are encrypted and are routed through other nodes to make it extremely difficult to determine who is requesting the information and what its content is, data is shared by all users on the network. [Source Code](https://github.com/freenet/fred) ⭐ 1,216 | 🐛 49 | 🌐 Java | 📅 2026-09-19 `GPLv2` `Java`
+* [FreeNet](https://freenetproject.org/) - Communications by Freenet nodes are encrypted and are routed through other nodes to make it extremely difficult to determine who is requesting the information and what its content is, data is shared by all users on the network. [Source Code](https://github.com/freenet/fred) ⭐ 1,217 | 🐛 49 | 🌐 Java | 📅 2026-09-19 `GPLv2` `Java`
 
 * [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. Unlike most mesh implementations, a Byzantium Mesh requires no specialized equipment that may not be easy to get during an emergency, just an x86 computer with at least one 802.11 a/b/g/n wireless interface. [Source Code](https://github.com/Byzantium/Byzantium) ⚠️ Archived `GPLv3` `C`
 
@@ -87,7 +87,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 **[`^        back to top        ^`](#)**
 
-* [Disaster.radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun. [Source Code](https://github.com/sudomesh/disaster-radio/) ⭐ 1,132 | 🐛 38 | 🌐 HTML | 📅 2026-05-22 `GPLv3` `Python`
+* [Disaster.radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun. [Source Code](https://github.com/sudomesh/disaster-radio/) ⭐ 1,131 | 🐛 38 | 🌐 HTML | 📅 2026-05-22 `GPLv3` `Python`
 
 * [AirChat](https://github.com/lulzlabs/AirChat) ⭐ 1,088 | 🐛 18 | 🌐 Perl | 📅 2021-12-09 - Free Communications For Everyone. Each node only cares for what is being received. No hardware identification, no transmitter plain identification. only packets matter. transmissions are anonymous. whenever an address is needed to reply to a packet, it is encrypted inside the packet. [Source Code](https://github.com/lulzlabs/AirChat) ⭐ 1,088 | 🐛 18 | 🌐 Perl | 📅 2021-12-09 `modified-WTFPL` `Perl`
 
@@ -143,4 +143,4 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
