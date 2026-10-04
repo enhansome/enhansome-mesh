@@ -17,11 +17,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T03:46:09Z",
+                "last_commit": "2026-10-04T04:20:07Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 250910,
+                "stars": 251044,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -73,7 +73,7 @@
                 "open_issues": 11,
                 "owner": "jech",
                 "repo": "babeld",
-                "stars": 453,
+                "stars": 454,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -237,7 +237,7 @@
                 "open_issues": 781,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18770,
+                "stars": 18768,
                 "topics": [
                   "anonymity",
                   "anticensorship",
@@ -294,7 +294,7 @@
                 "open_issues": 49,
                 "owner": "hyphanet",
                 "repo": "fred",
-                "stars": 1218,
+                "stars": 1220,
                 "topics": [
                   "anonymity",
                   "hyphanet",
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:26:05.709Z",
+    "last_updated": "2026-10-04T14:59:29.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.",
