@@ -1,6 +1,6 @@
 # Awesome-Mesh with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,371 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,516 | 🐛 106 | 📅 2026-09-02
 
 This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.
 
@@ -39,7 +39,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 **[`^        back to top        ^`](#)**
 
-* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) ⭐ 251,240 | 🐛 3 | 🌐 C | 📅 2026-10-06 - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
+* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) ⭐ 251,287 | 🐛 3 | 🌐 C | 📅 2026-10-06 - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
 
 * [cjdns](https://github.com/cjdelisle/cjdns/) ⭐ 5,418 | 🐛 113 | 🌐 C | 📅 2026-09-22 - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. [Source Code](https://github.com/cjdelisle/cjdns/) ⭐ 5,418 | 🐛 113 | 🌐 C | 📅 2026-09-22 `GPLv3` `Assembly`
 
