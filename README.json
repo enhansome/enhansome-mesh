@@ -17,11 +17,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T01:42:25Z",
+                "last_commit": "2026-10-18T05:12:42Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 252234,
+                "stars": 252364,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -42,7 +42,7 @@
                 "open_issues": 113,
                 "owner": "cjdelisle",
                 "repo": "cjdns",
-                "stars": 5416,
+                "stars": 5418,
                 "topics": [
                   "cjdns",
                   "cryptography",
@@ -267,11 +267,11 @@
                 "id": 21233191,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T21:34:46Z",
+                "last_commit": "2026-10-18T07:16:08Z",
                 "open_issues": 877,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17149,
+                "stars": 17150,
                 "topics": [
                   "ipfs"
                 ]
@@ -291,7 +291,7 @@
                 "language": "Java",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-19T19:06:10Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "hyphanet",
                 "repo": "fred",
                 "stars": 1224,
@@ -347,7 +347,7 @@
                 "open_issues": 38,
                 "owner": "sudomesh",
                 "repo": "disaster-radio",
-                "stars": 1130,
+                "stars": 1131,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -410,7 +410,7 @@
                 "open_issues": 42,
                 "owner": "servalproject",
                 "repo": "batphone",
-                "stars": 422,
+                "stars": 423,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:15:44.549Z",
+    "last_updated": "2026-10-18T13:35:57.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.",
