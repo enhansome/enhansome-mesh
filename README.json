@@ -17,11 +17,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T19:18:49Z",
+                "last_commit": "2026-10-28T01:10:20Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 253670,
+                "stars": 253745,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -42,7 +42,7 @@
                 "open_issues": 113,
                 "owner": "cjdelisle",
                 "repo": "cjdns",
-                "stars": 5422,
+                "stars": 5421,
                 "topics": [
                   "cjdns",
                   "cryptography",
@@ -122,7 +122,7 @@
                 "open_issues": 1,
                 "owner": "bluerange-io",
                 "repo": "bluerange-mesh",
-                "stars": 314,
+                "stars": 315,
                 "topics": [
                   "beacons",
                   "ble",
@@ -237,7 +237,7 @@
                 "open_issues": 780,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18785,
+                "stars": 18786,
                 "topics": [
                   "anonymity",
                   "anticensorship",
@@ -267,11 +267,11 @@
                 "id": 21233191,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T14:14:42Z",
+                "last_commit": "2026-10-28T12:39:22Z",
                 "open_issues": 879,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17158,
+                "stars": 17162,
                 "topics": [
                   "ipfs"
                 ]
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:33:39.868Z",
+    "last_updated": "2026-10-28T16:17:44.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.",
