@@ -17,11 +17,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T00:07:06Z",
+                "last_commit": "2026-10-31T05:20:24Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 253846,
+                "stars": 253946,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -42,7 +42,7 @@
                 "open_issues": 113,
                 "owner": "cjdelisle",
                 "repo": "cjdns",
-                "stars": 5419,
+                "stars": 5422,
                 "topics": [
                   "cjdns",
                   "cryptography",
@@ -237,7 +237,7 @@
                 "open_issues": 780,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18781,
+                "stars": 18782,
                 "topics": [
                   "anonymity",
                   "anticensorship",
@@ -271,7 +271,7 @@
                 "open_issues": 881,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17163,
+                "stars": 17164,
                 "topics": [
                   "ipfs"
                 ]
@@ -291,7 +291,7 @@
                 "language": "Java",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-19T19:06:10Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "hyphanet",
                 "repo": "fred",
                 "stars": 1228,
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:16:18.237Z",
+    "last_updated": "2026-10-31T15:30:41.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.",
