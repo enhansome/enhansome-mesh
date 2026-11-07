@@ -1,6 +1,6 @@
 # Awesome-Mesh with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,263 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,964 | 🐛 103 | 📅 2026-09-02
 
 This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.
 
@@ -39,11 +39,11 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 **[`^        back to top        ^`](#)**
 
-* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) ⭐ 254,606 | 🐛 3 | 🌐 C | 📅 2026-11-06 - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
+* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) ⭐ 254,735 | 🐛 3 | 🌐 C | 📅 2026-11-06 - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
 
 * [cjdns](https://github.com/cjdelisle/cjdns/) ⭐ 5,422 | 🐛 113 | 🌐 C | 📅 2026-09-22 - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. [Source Code](https://github.com/cjdelisle/cjdns/) ⭐ 5,422 | 🐛 113 | 🌐 C | 📅 2026-09-22 `GPLv3` `Assembly`
 
-* [babled](http://www.pps.univ-paris-diderot.fr/~jch/software/babel/) - Babel is a loop-avoiding distance-vector routing protocol for IPv6 and IPv4 with fast convergence properties. It is based on the ideas in DSDV, AODV and Cisco's EIGRP, but is designed to work well not only in wired networks but also in wireless mesh networks, and has been extended with support for overlay networks. [Source Code](https://github.com/jech/babeld) ⭐ 456 | 🐛 12 | 🌐 C | 📅 2026-09-30 `MIT` `C`
+* [babled](http://www.pps.univ-paris-diderot.fr/~jch/software/babel/) - Babel is a loop-avoiding distance-vector routing protocol for IPv6 and IPv4 with fast convergence properties. It is based on the ideas in DSDV, AODV and Cisco's EIGRP, but is designed to work well not only in wired networks but also in wireless mesh networks, and has been extended with support for overlay networks. [Source Code](https://github.com/jech/babeld) ⭐ 457 | 🐛 12 | 🌐 C | 📅 2026-09-30 `MIT` `C`
 
 * [OLSR](http://olsr.org/) - The Optimized Link State Routing Protocol (OLSR) is an IP routing protocol optimized for mobile ad hoc networks, which can also be used on other wireless ad hoc networks. [Source Code](https://github.com/OLSR/OONF) ⭐ 68 | 🐛 7 | 🌐 C | 📅 2026-08-06  `BSD` `C`
 
@@ -143,4 +143,4 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
