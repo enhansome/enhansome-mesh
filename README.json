@@ -17,11 +17,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T00:41:27Z",
+                "last_commit": "2026-11-10T17:49:10Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 255137,
+                "stars": 255337,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -69,11 +69,11 @@
                 "id": 2145286,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-30T13:13:38Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-11T00:05:42Z",
+                "open_issues": 11,
                 "owner": "jech",
                 "repo": "babeld",
-                "stars": 458,
+                "stars": 459,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -237,7 +237,7 @@
                 "open_issues": 780,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18780,
+                "stars": 18779,
                 "topics": [
                   "anonymity",
                   "anticensorship",
@@ -271,7 +271,7 @@
                 "open_issues": 887,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17181,
+                "stars": 17184,
                 "topics": [
                   "ipfs"
                 ]
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:19:00.180Z",
+    "last_updated": "2026-11-11T17:28:35.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.",
