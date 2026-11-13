@@ -17,11 +17,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T02:55:16Z",
+                "last_commit": "2026-11-12T21:21:39Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 255492,
+                "stars": 255576,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:06.783Z"
@@ -237,7 +237,7 @@
                 "open_issues": 780,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18779,
+                "stars": 18778,
                 "topics": [
                   "anonymity",
                   "anticensorship",
@@ -268,7 +268,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-01T21:40:20Z",
-                "open_issues": 888,
+                "open_issues": 889,
                 "owner": "ipfs",
                 "repo": "kubo",
                 "stars": 17186,
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:45:23.017Z",
+    "last_updated": "2026-11-13T17:23:50.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.",
